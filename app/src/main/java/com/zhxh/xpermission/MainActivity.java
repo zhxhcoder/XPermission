@@ -1,4 +1,4 @@
-package com.zhxh.android.xpermission;
+package com.zhxh.xpermission;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
