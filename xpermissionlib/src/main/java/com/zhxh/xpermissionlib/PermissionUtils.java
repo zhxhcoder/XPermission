@@ -1,9 +1,5 @@
 package com.zhxh.xpermissionlib;
 
-/**
- * Created by zhxh on 2018/7/4
- */
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -25,6 +21,9 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * Created by zhxh on 2018/7/4
+ */
 
 public final class PermissionUtils {
 
